@@ -13,7 +13,7 @@ Este repositório contém o relatório e as respostas teóricas da Atividade Pr�
 ## Conteúdo
 
 - `relatorio.pdf`: relatório técnico com análise da atividade  
-- `questoes.pdf`: respostas às questões teóricas propostas pela disciplina  
+- `questoes.pdf`: questões teóricas propostas pela disciplina  
 
 > ⚠️ *O código utilizado nesta atividade foi fornecido pelos professores e não está incluído neste repositório por respeito à autoria.*
 
